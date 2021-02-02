@@ -31,4 +31,5 @@
 * [What's New Blog](apex-as/whats-new-blog/README.md)
   * [2020-10-19](apex-as/whats-new-blog/2020-10-19.md)
   * [2020-06-23](apex-as/whats-new-blog/2020-06-23.md)
+  * [2021-02-02](apex-as/whats-new-blog/2021-02-02.md)
 
