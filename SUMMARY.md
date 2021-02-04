@@ -9,6 +9,8 @@
 ## Apex AS
 
 * [Введение](apex-as/vvedenie.md)
+* [Model](apex-as/model/README.md)
+  * [Scope Box](apex-as/model/scope-box.md)
 * [Analysis](apex-as/analysis/README.md)
   * [Lintels](apex-as/analysis/lintels/README.md)
     * [Settings](apex-as/analysis/lintels/settings.md)
