@@ -35,3 +35,8 @@
   * [2020-06-23](apex-as/whats-new-blog/2020-06-23.md)
   * [2021-02-02](apex-as/whats-new-blog/2021-02-02.md)
 
+## BIM Hub
+
+* [Remote Worker](bim-hub/remote-worker/README.md)
+  * [Create Models](bim-hub/remote-worker/create-models.md)
+
